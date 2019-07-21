@@ -1,3 +1,8 @@
+Note to myself
+
+Build and Upload Firmware on both controllers with:
+`make lets_split:default:avrdude`
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
